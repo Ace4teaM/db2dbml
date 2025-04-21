@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "db2dbml": {
+      "commandName": "Project",
+      "commandLineArgs": "sqlserver"
+    }
+  }
+}
